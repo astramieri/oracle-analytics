@@ -1,2 +1,3 @@
-# oracle-analytics
-Note-taking repository for Oracle APEX
+# Oracle Analytics Cloud
+
+Note-taking repository for Oracle Analytics Cloud.
