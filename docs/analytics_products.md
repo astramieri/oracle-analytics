@@ -30,7 +30,7 @@ Oracle Analytics Server is a modern analytics platform **on-premises**.
 
 Oracle Analytics Server supports **hybrid cloud configurations**.
 
-For any **regulatory requirements**, if you cannot migrate your data outside your customer data center, then Oracle Analytics Server provides you with a hybrid Cloud support, where you can deploy your Oracle Analytics Server on the Cloud version. You can still have your data available or residing on-premises in your customer data center and you can still generate insights out of it.
+For any **regulatory requirements**, if you cannot migrate your data outside your customer data center, then Oracle Analytics Server provides you with a hybrid cloud support, where you can deploy your Oracle Analytics Server on the cloud version. You can still have your data available or residing on-premises in your customer data center and you can still generate insights out of it.
 
 ## Oracle Analytics Cloud vs Oracle Analytics Server 
 
